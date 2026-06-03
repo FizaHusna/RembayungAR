@@ -1,0 +1,20 @@
+# Unity standard folders to ignore
+/Library/
+/Logs/
+/UserSettings/
+/Obj/
+/Temp/
+/Build/
+/Builds/
+
+# Ignore Asset Store package leftovers
+Assets/AssetStoreTools*
+
+# Ignore the giant Vuforia file specifically
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
+
+# Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.suo
